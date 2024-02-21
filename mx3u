@@ -1834,6 +1834,153 @@ https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
 
+#EXTINF:-1 tvg-id="88Stereo.cr",88 Estéreo (720p) [No 24/7]
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 tvg-id="OPA.cr",¡OPA! (1080p)
+https://cageu.bozztv.com/ssh101/ssh101/opacanal38/playlist.m3u8
+#EXTINF:-1 tvg-id="AgrotendenciaTV.cr",Agrotendencia TV (1080p)
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+#EXTINF:-1 tvg-id="Trivision36.cr",Anexión TV Canal 36 (1080p)
+https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="AntenaSeisTV.cr",Antena Seis TV (720p)
+http://inliveserver.com:1935/14510/14510/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal1.cr",Canal 1 (720p)
+https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal1.cr",Canal 1 (720p)
+https://video20.klm99.com:3993/live/canal1crlive.m3u8
+#EXTINF:-1 tvg-id="Canal2.cr",Canal 2 (576p) [No 24/7]
+https://d2t46xrpai3it5.cloudfront.net/Canal2CR/1ccdc8545fd05b83e9c57826d0de1069.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal3KMKTV.cr",Canal 3 KMK TV (720p)
+https://cloudvideo.servers10.com:8081/8120/index.m3u8
+#EXTINF:-1 tvg-id="Canal4.cr",Canal 4 (720p) [No 24/7]
+https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal6.cr",Canal 6 (720p) [No 24/7]
+https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal8.cr",Canal 8 (720p) [No 24/7]
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 tvg-id="CanalNueve.cr",Canal 9 (720p)
+http://201.201.149.86:8080/livestream/stream.m3u8
+#EXTINF:-1 tvg-id="Canal11.cr",Canal 11 (720p) [No 24/7]
+https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVN14.cr",Canal 14 San Carlos (720p) [No 24/7]
+http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal17TVNosara.cr",Canal 17 TV Nosara (720p)
+https://stmv.streamingvip.click/tvnosara2/tvnosara2/playlist.m3u8
+#EXTINF:-1 tvg-id="CaribeTVCR.cr",Caribe TV CR (720p)
+https://rpn3.bozztv.com/ssh101/ssh101/sinart/playlist.m3u8
+#EXTINF:-1 tvg-id="CartagoMediosTV.cr",Cartago Medios TV (720p)
+https://tvdatta.com:3384/live/cartagomedioslive.m3u8
+#EXTINF:-1 tvg-id="ColosalTV.cr",Colosal TV (720p) [No 24/7]
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:-1 tvg-id="ComunicacionesJimenez.cr",Comunicaciones Jiménez (720p) [No 24/7]
+https://s1.tvdatta.com:3156/live/jimeneztvlive.m3u8
+#EXTINF:-1 tvg-id="CotoBrusTV.cr",Coto Brus TV (720p)
+https://cloudvideo.servers10.com:8081/8030/index.m3u8
+#EXTINF:-1 tvg-id="CristoVisionCanal31.cr",Cristo Visión Canal 31 (720p)
+https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
+#EXTINF:-1 tvg-id="Enlace.cr",Enlace
+https://livecdn.enlace.plus/enlace/smil:enlace-fhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EnlaceJuvenil.cr",Enlace Juvenil (720p)
+https://11554-1.b.cdn13.com/EJTV/smil:ejtv-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ExtremaTV.cr",Extrema TV (720p)
+https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="GarabitoTV.cr",Garabito TV (720p)
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
+#EXTINF:-1 tvg-id="GuatusoTV.cr",Guatuso TV (720p)
+https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8
+#EXTINF:-1 tvg-id="TicaVision.cr",HBTV TicaVisión (1080p)
+https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 tvg-id="IQChannel.cr",IQ Channel (720p)
+https://rtmp.info/iqtv/envivo/playlist.m3u8
+#EXTINF:-1 tvg-id="LimonTV.cr",Limón TV (1080p) [No 24/7]
+http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
+#EXTINF:-1 tvg-id="LosSantosTV.cr",Los Santos TV (720p)
+https://lstv.duckdns.org:449/hls/lstv.m3u8
+#EXTINF:-1 tvg-id="LuzNacienteTV.cr",Luz Naciente TV (720p)
+https://streeming.protoscr.com:3858/live/streeminglive.m3u8
+#EXTINF:-1 tvg-id="MasCiclismoTV.cr",Más Ciclismo TV (720p)
+https://ssh101.bozztv.com/ssh101/masciclismo/playlist.m3u8
+#EXTINF:-1 tvg-id="MasCiclismoTV.cr",Más Ciclismo TV (720p)
+https://vcp8.myplaytv.com:1936/masciclismo/masciclismo/playlist.m3u8
+#EXTINF:-1 tvg-id="MeganetTV.cr",Meganet TV (720p)
+https://250weu.bozztv.com/ssh101/ssh101/meganettv/playlist.m3u8
+#EXTINF:-1 tvg-id="MetaVersusCR.cr",MetaVersus CR (480p)
+https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
+#EXTINF:-1 tvg-id="MultizonasTV.cr",Multizonas TV (720p)
+https://cloudvideo.servers10.com:8081/8068/index.m3u8
+#EXTINF:-1 tvg-id="NicoyaTV.cr",Nicoya TV (720p) [No 24/7]
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
+#EXTINF:-1 tvg-id="NorteInformativoTV.cr",Norte Informativo TV (240p)
+https://videohd.live:19360/8076/8076.m3u8
+#EXTINF:-1 tvg-id="OldiesHits.cr",Éxitos antiguos (360p)
+https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
+#EXTINF:-1 tvg-id="QuinceUCR.cr",Quince UCR (720p) [No 24/7]
+http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioPuertoTV.cr",Radio Puerto TV (720p)
+https://cloudvideo.servers10.com:8081/8256/index.m3u8
+#EXTINF:-1 tvg-id="RetroTVPalmares.cr",Retro TV Palmarés (360p) [No 24/7]
+https://250weu.bozztv.com/ssh101/ssh101/tvretropalmares/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroxTV.cr",Retrox TV (720p)
+https://rpn3.bozztv.com/ssh101/ssh101/retroxtvhd/playlist.m3u8
+#EXTINF:-1 tvg-id="RTTV.cr",RTTV (720p) [No 24/7]
+https://cloudvideo.servers10.com:19360/8212/8212.m3u8
+#EXTINF:-1 tvg-id="SanJoseTV.cr",San José TV (1080p)
+https://rtmp.info/sanjosetv/envivo/playlist.m3u8
+#EXTINF:-1 tvg-id="SanVitoTelevision.cr",San Vito Televisión (720p)
+https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
+#EXTINF:-1 tvg-id="SarapiquiTV.cr",Sarapiqui TV (720p) [No 24/7]
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+#EXTINF:-1 tvg-id="SarapiquiTV.cr",Sarapiqui TV (720p) [No 24/7]
+https://lstv.duckdns.org:449/hls/stv.m3u8
+#EXTINF:-1 tvg-id="SOYPlanchaTV.cr",SOY Plancha TV (720p)
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
+#EXTINF:-1 tvg-id="TDtv.cr",TDtv (720p)
+https://cloudvideo.servers10.com:8081/8230/index.m3u8
+#EXTINF:-1 tvg-id="TeleUno.cr",Tele Uno (720p) [No 24/7]
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleUno.cr",Tele Uno (720p) [No 24/7]
+https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleBrunca.cr",TeleBrunca (720p) [No 24/7]
+https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
+#EXTINF:-1 tvg-id="Telefides.cr",Telefides (720p)
+https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleredTelevision.cr",Telered (720p)
+https://video20.klm99.com:3558/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="Telesistema.cr",Telesistema (480p) [No 24/7]
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleSURCostaRica.cr",TeleSUR Costa Rica (720p) [No 24/7]
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+#EXTINF:-1 tvg-id="Teletica7.cr",Teletica 7 (720p) [Geobloqueado]
+#EXTVLCOPT:http-referrer=https://bradmax.com
+https://cdn01.teletica.com/TeleticaLiveStreamCR/Stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="TicaTVPlus.cr",Tica TV+ (288p)
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/.m3u8
+#EXTINF:-1 tvg-id="TVCurre.cr",TV Curré (720p) [No 24/7]
+http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSurCanal9.cr",TV Sur Canal 9 (620p) [No 24/7]
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSurCanal14.cr",TV Sur Canal 14 (1080p)
+https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPlus.cr",TV+ Canal 54 (480p)
+https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/playlist.m3u8
+#EXTINF:-1 tvg-id="UrbanoTV.cr",Urbano TV (720p)
+https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
+#EXTINF:-1 tvg-id="VideoTourChannel.cr",Canal de Video Tour (480p) [No 24/7]
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+#EXTINF:-1 tvg-id="VintageMusic.cr",Música Vintage (720p)
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
+#EXTINF:-1 tvg-id="VMLatino.cr",VM Latino (720p) [No 24/7]
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:-1 tvg-id="VoiceOverRadioTV.cr",VoiceOver Radio TV (720p)
+https://cloudvideo.servers10.com:8081/8198/index.m3u8
+#EXTINF:-1 tvg-id="XpressoJovenRadio.cr",Xpresso Joven Radio (720p)
+https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/playlist.m3u8
+#EXTINF:-1 tvg-id="ZonaMusicTV.cr",Zona Música TV (720p)
+https://srv.panelcast.net/zonatv2023/zonatv2023/playlist.m3u8
+#EXTINF:-1 tvg-id="ZurquiTV.cr",Zurquí TV (720p)
+https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://lc.cx/-tQ7NA" group-title="SERVIDOR 2", Activar desde https://teleclub.xyz/activar 
 http://tv.teleclub.xyz/hls/welcome.m3u8
  
@@ -5373,4 +5520,102 @@ http://archive.org/download/ulakinw_w542c_mygeoweb_4/DFRT/9.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n3ZxUztAAF4NEzYnIZd8XZVyTJ1.jpg" group-title="Pelis 3" type="movie" ,WINX CLUB EL SECRETO DEL REINO PERDIDO 
 http://archive.org/download/winxclubelsecretodelreinoperdidopeliculaespanollatino_201909/Winx%20Club%20%20%20El%20Secreto%20del%20Reino%20Perdido%20_%20Pel%C3%ADcula%20%20%20Espa%C3%B1ol%20Latino.mp4 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://webcam.lgbt/wp-content/uploads/2023/03/image-97.png",POV PORNO
+https://cdn.adultiptv.net/pov.m3u8
 
+#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://www.logotypes101.com/logos/902/628B6656F15FF18373495599DF11E7F3/Pornstar.png",PORNSTAR
+https://cdn.adultiptv.net/pornstar.m3u8
+
+#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://lc.cx/VkiN5Q",BLOWJOB
+https://cdn.adultiptv.net/blowjob.m3u8
+
+#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://lc.cx/_8ke6X",HUSTLER
+https://b-hls-10.doppiocdn.com/hls/76592543/76592543.m3u8
+
+#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/brazzers-tv-official-logo.png",BRAZZERS TV
+https://livechannels.xyz:2053/iptv/brazzers/playlist.m3u8
+
+#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/hustler-hd-official-logo.png",Hustler-hd-tv
+https://livechannels.xyz:2053/iptv/hustlertv/playlist.m3u8
+
+#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dorcel_TV.svg/1200px-Dorcel_TV.svg.png",DORCEL-hd-tv
+https://livechannels.xyz:2053/iptv/dorcel/playlist.m3u8
+
+#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/868-540x304-FFFFFF.jpg",MIAMI TV XX
+https://59ec5453559f0.streamlock.net/jennyforyou/smil:WEB3131/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", LiveCams 
+https://tv.teleclub.xyz/envivo/XXX/LIVECAMS/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Milf 
+https://tv.teleclub.xyz/envivo/XXX/MILF/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", BigDick 
+https://tv.teleclub.xyz/envivo/XXX/BIGDICK/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Fetish 
+https://tv.teleclub.xyz/envivo/XXX/FETISH/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", BigTits 
+https://tv.teleclub.xyz/envivo/XXX/BIGTITS/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Pornstar 
+https://tv.teleclub.xyz/envivo/XXX/PORNSTAR/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", BigAss 
+https://tv.teleclub.xyz/envivo/XXX/BIGASS/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Interracial 
+https://tv.teleclub.xyz/envivo/XXX/INTERRACIAL/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Latina 
+https://tv.teleclub.xyz/envivo/XXX/LATINA/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", POV 
+https://tv.teleclub.xyz/envivo/XXX/POV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Blowjob 
+https://tv.teleclub.xyz/envivo/XXX/BLOWJOB/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Teen 
+https://tv.teleclub.xyz/envivo/XXX/TEEN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Hardcore 
+https://tv.teleclub.xyz/envivo/XXX/HARDCORE/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Cuckold 
+http://tv.teleclub.xyz/envivo/XXX/CUCKOLD/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Threesome 
+http://tv.teleclub.xyz/envivo/XXX/THREESOME/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Russian 
+https://tv.teleclub.xyz/envivo/XXX/RUSSIAN/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Lesbian 
+https://tv.teleclub.xyz/envivo/XXX/LESBIAN/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Rought 
+https://tv.teleclub.xyz/envivo/XXX/ROUGHT/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Gangbang 
+https://tv.teleclub.xyz/envivo/XXX/GANGBANG/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Anal
+https://tv.teleclub.xyz/envivo/XXX/ANAL/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Compilation 
+https://tv.teleclub.xyz/envivo/XXX/COMPILATION/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Brunette 
+https://tv.teleclub.xyz/envivo/XXX/BRUNETTE/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Blonde 
+https://tv.teleclub.xyz/envivo/XXX/BLONDE/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", PlayBoy HD 
+https://tv.teleclub.xyz/envivo/XXX/XXX_PLAYBOY/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", VENUS HD 
+https://tv.teleclub.xyz/envivo/XXX/XXX_VENUS/index.m3u8 
