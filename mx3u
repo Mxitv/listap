@@ -1264,7 +1264,7 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 
 #EXTINF:-422 tvg-id="Canal4.mx" tvg-name="Canal 4" tvg-logo="https://i.ibb.co/dtrcnBL/Unnamed-41.jpg" group-title="MEXICO",TV5 Tu Canal
-https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
+https://channel05.akamaized.net/hls/live/2033783/event01/index_5.m3u8
 
 #EXTINF:-423 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png" group-title="MEXICO", Warner Brother
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist_1280x720.m3u8
@@ -1887,7 +1887,7 @@ http://177.53.153.20:8001/play/a0dc/index.m3u8
 http://38.41.8.1:8000/play/a00d
 
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="CINE Y SERIES", 107 | TNT
-http://45.238.21.131:6570/play/a03l/index.m3u8
+http://181.78.105.146:2000/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | TNT Series" tvg-name="USA | TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="CINE Y SERIES", 108 | TNT Series
 http://177.53.153.20:8001/play/a02y/index.m3u8
@@ -2088,10 +2088,10 @@ https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 https://linear-580.frequency.stream/dist/studio/580/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" tvg-logo="https://i.postimg.cc/BnbyqYgz/175px-Distrito-Comedia-LOGO2018.png" group-title="CANALES 24/7 ᵸᴰ", 174 | Distrito Comedia
-https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
+http://181.78.105.146:2000/play/a08t/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | Comedy Central" tvg-name="USA | Comedy Central" tvg-logo="https://i.postimg.cc/9Ft2TgqM/Tlnovelas-logo-2021.png" group-title="CANALES 24/7 ᵸᴰ", 175 | TLNOVELAS 
-https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist_1024x576.m3u8
+http://181.78.105.146:2000/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-id="EE.UU. | Canal de golf" tvg-name="EE.UU. | Canal de golf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/ Golf_Channel_Logo_2018.png/200px-Golf_Channel_Logo_2018.png" group-title="DEPORTES", 219 | Canal de Golf
 http://138.59.177.34:8000/play/a03b/index.m3u8
@@ -7789,13 +7789,13 @@ https://cdn.adultiptv.net/pornstar.m3u8
 https://cdn.adultiptv.net/blowjob.m3u8
 
 #EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://i.postimg.cc/DZJr5wgT/800px-Dorcel-TV-svg.png",DORCEL TV
-https://s.oxax.tv/YWrpn43CMl4raeYfQoWX4Q/21/1716271647/index.m3u8
+https://s.oxax.tv/vgbnlsryRrWRmhw1v18G7w/21/1716448362/index.m3u8
 
 #EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://i.postimg.cc/SRcWF131/private3963-logowik-com.webp",PRIVATE
-https://s.oxax.tv/upVkQU3aOwbHP4txcXSA9Q/11/1716271804/index.m3u8
+https://s.oxax.tv/ZEKMNq2C3oGB1D9hVQOUHg/11/1716448461/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", FAP TV 2
-https://s.oxax.tv/hdQY2jU4NO_F0dmR7Kjzjw/37/1716271985/index.m3u8
+https://s.oxax.tv/32iZxGRW9FVIGgYf4TY75Q/37/1716448418/index.m3u8
 
 #EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/868-540x304-FFFFFF.jpg",MIAMI TV XX
 https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/playlist.m3u8
@@ -7870,16 +7870,25 @@ https://tv.teleclub.xyz/envivo/XXX/BRUNETTE/index.m3u8
 https://tv.teleclub.xyz/envivo/XXX/BLONDE/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", PlayBoy HD 
-https://s.oxax.tv/4RDnjwzNYcg-_7ZFMa2pfg/6/1716271758/index.m3u8
+https://s.oxax.tv/usIWvrXkilvHQUh4nMPGgQ/6/1716448671/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Playboy HD
 http://177.53.153.20:8001/play/a0bg/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0P81HRD/image.jpg" group-title="ZONA 18 XX",Penthouse gold HD 
-https://s.oxax.tv/WPSloUkTJ32vRSWXULOjfw/16/1716271872/index.m3u8
+https://s.oxax.tv/izBuD0gUZ9rAPTB8ZjUVJA/39/1716448496/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01o.png" group-title="ZONA 18 XX", sex si
 http://177.53.153.20:8001/play/a01p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01o.png" group-title="ZONA 18 XX", VENUS
+http://177.53.153.20:8001/play/a01o/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", VIDEO CAM5
+https://live-edge34-rn.bcvcdn.com/hls/stream_Sarsei/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://i.postimg.cc/gcMQfbyh/logo-ESPN.png" group-title="DEPORTES", ESPN | HD
 http://181.78.105.146:2000/play/a064/index.m3u8
@@ -7894,8 +7903,8 @@ http://181.78.105.146:2000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN PREMIUM LA HD
 http://45.238.21.131:6570/play/a019/index.m3u8
 
-#EXTINF:-1 group-title="CINE Y SERIES", TNT
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/9.m3u8
+#EXTINF:-1 tvg-id="UnivisionNetwork(Español).us" tvg-name="Univision Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Univision_23_2019. png" group-title="CINE Y SERIES", Univision Miami
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tlnovelas_2007_logo.svg/1280px-Tlnovelas_2007_logo.svg.png"group-title="NOVELAS", TLNOVELAS
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/134.m3u8
@@ -7919,7 +7928,7 @@ http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/965.m3u8
 http://181.78.105.146:2000/play/a063/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sPhaUD9.jpg"group-title="DEPORTES", ESPN 3 MX HD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/195.m3u8
+http://177.53.153.20:8001/play/a0c4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sPhaUD9.jpg"group-title="DEPORTES", ESPN 3 MX HD
 http://181.78.105.146:2000/play/a03n/index.m3u8
@@ -7934,6 +7943,12 @@ http://161.132.108.74:50001/play/a03o/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", SKY LALIGA HD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/219.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="DEPORTES", DIRECTV
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/955.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="DEPORTES", DIRECTV SPORTS
+http://177.53.153.20:8001/play/a0em/index.m3u8
 
 #EXTINF:-1 tvg-id="AR | DSports 2" tvg-name="AR | DSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/ DSports2.png/175px-DSports2.png" group-title="DEPORTES",DSports 2 HD
 http://161.132.108.74:50001/play/a03p/index.m3u8
